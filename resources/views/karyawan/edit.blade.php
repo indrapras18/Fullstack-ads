@@ -6,7 +6,7 @@
       <li class="breadcrumb-item text-sm">
       </li>
     </ol>
-    <h4 class="font-weight-bolder mb-0">Tambah Karyawan</h4>
+    <h4 class="font-weight-bolder mb-0">Update Karyawan</h4>
   </nav>
 @endsection
 
